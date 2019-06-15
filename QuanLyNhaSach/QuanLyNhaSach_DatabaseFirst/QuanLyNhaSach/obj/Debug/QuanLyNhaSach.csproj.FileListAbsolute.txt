@@ -1,0 +1,287 @@
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\DataAccessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\DataAccessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmLogin.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmMain.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDoiMatKhau.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonBan.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucSach.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonNhap.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNhaCC.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucNhanVien.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNXB.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmTheLoai.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\DataAccessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\DataAccessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csprojResolveAssemblyReference.cache
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmMain.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDoiMatKhau.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmLogin.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNhaCC.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNXB.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmTheLoai.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonBan.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonNhap.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucNhanVien.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucSach.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.Cache
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucThongKe.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\DataAccessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\DataAccessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmMain.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDoiMatKhau.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmLogin.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNhaCC.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNXB.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmTheLoai.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonBan.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonNhap.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucNhanVien.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucSach.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucThongKe.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\bin\Debug\DataAccessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\bin\Debug\DataAccessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmMain.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDoiMatKhau.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmLogin.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNhaCC.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNXB.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmTheLoai.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonBan.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonNhap.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucNhanVien.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucSach.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucThongKe.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\RdlCompile.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_Test\QuanLyNhaSach\obj\Debug\RdlCompile.compiled
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\DataAccessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\DataAccessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csprojResolveAssemblyReference.cache
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmMain.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDoiMatKhau.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmLogin.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNhaCC.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNXB.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmTheLoai.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonBan.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonNhap.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucNhanVien.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucSach.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucThongKe.resources
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.Cache
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\RdlCompile.cache
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.dll
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.pdb
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmMain.resources
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDoiMatKhau.resources
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmLogin.resources
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNhaCC.resources
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNXB.resources
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmTheLoai.resources
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonBan.resources
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonNhap.resources
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucNhanVien.resources
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucSach.resources
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucThongKe.resources
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\RdlCompile.compiled
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\RdlCompile.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\RdlCompile.compiled
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\EntityFramework.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\EntityFramework.xml
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmMain.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDoiMatKhau.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmLogin.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNhaCC.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNXB.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmTheLoai.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonBan.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonNhap.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucNhanVien.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucSach.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucThongKe.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\RdlCompile.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\RdlCompile.compiled
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmSach.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmNhanVien.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmChiTietHDBan.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmHoaDonBan.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmHoaDonNhap.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmChiTietHDNhap.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.dll
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.pdb
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\EntityFramework.xml
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csprojResolveAssemblyReference.cache
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmChiTietHDBan.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmChiTietHDNhap.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmHoaDonBan.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmHoaDonNhap.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmNhanVien.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmSach.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmMain.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDoiMatKhau.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmLogin.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNhaCC.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNXB.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmTheLoai.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonBan.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonNhap.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucNhanVien.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucSach.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucThongKe.resources
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.Cache
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\RdlCompile.cache
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\RdlCompile.compiled
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmInHoaDon.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csprojResolveAssemblyReference.cache
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmChiTietHDBan.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmChiTietHDNhap.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmHoaDonBan.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmHoaDonNhap.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmNhanVien.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmSach.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmInHoaDon.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmMain.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDoiMatKhau.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmLogin.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNhaCC.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNXB.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmTheLoai.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonBan.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonNhap.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucNhanVien.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucSach.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucThongKe.resources
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.Cache
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\RdlCompile.cache
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\RdlCompile.compiled
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.dll
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.pdb
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\EntityFramework.xml
+F:\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\EntityFramework.xml
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmChiTietHDBan.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmChiTietHDNhap.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmHoaDonBan.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmHoaDonNhap.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmNhanVien.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DanhMuc.frmSach.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmInHoaDon.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmMain.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDoiMatKhau.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmLogin.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNhaCC.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNXB.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmTheLoai.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonBan.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucHoaDonNhap.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucNhanVien.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucSach.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.ucThongKe.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\RdlCompile.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\RdlCompile.compiled
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmInHoaDon.resources

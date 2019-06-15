@@ -1,0 +1,25 @@
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

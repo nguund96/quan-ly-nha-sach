@@ -1,0 +1,35 @@
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb

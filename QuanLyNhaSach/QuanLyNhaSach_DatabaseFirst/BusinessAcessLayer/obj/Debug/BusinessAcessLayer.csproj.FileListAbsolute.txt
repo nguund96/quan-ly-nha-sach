@@ -1,0 +1,75 @@
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach1\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+C:\Users\sontr\Desktop\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+C:\Users\Admin\Downloads\QuanLyNhaSach_FullHD\QuanLyNhaSach_FullHD\QuanLyNhaSach\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll.config
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.xml
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\Đồ án cuối kì\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb
+D:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll.config
+D:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+D:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+D:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.dll
+D:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.xml
+D:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+D:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+D:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb
+F:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll.config
+F:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+F:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+F:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.dll
+F:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.xml
+F:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+F:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+F:\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll.config
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.xml
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\QuanLyNhaSach_DatabaseFirst\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6559b4f03d3f4981a8f43fc6e5d7e202" Name="Diagram1" ZoomLevel="86">
+        <EntityTypeShape EntityType="QLNSModel.ChiTietHDBan" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNSModel.ChiTietHoaDonNhap" Width="1.5" PointX="5.25" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNSModel.HoaDonBan" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNSModel.HoaDonNhap" Width="1.5" PointX="3" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNSModel.NXB" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNSModel.NhaCC" Width="1.5" PointX="0.75" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNSModel.NhanVien" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNSModel.Sach" Width="1.5" PointX="3" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNSModel.sysdiagram" Width="1.5" PointX="7.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNSModel.TacGiaVietSach" Width="1.5" PointX="5.25" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNSModel.TaiKhoan" Width="1.5" PointX="7.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNSModel.TheLoai" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNSModel.VW_DanhSachSachDaBan" Width="1.5" PointX="7.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNSModel.VW_DanhSachTheLoaiDaBan" Width="1.5" PointX="9.75" PointY="2.25" IsExpanded="true" />
+        <AssociationConnector Association="QLNSModel.FK__ChiTietHD__MaHDB__1FCDBCEB" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNSModel.FK__ChiTietHD__MaSac__20C1E124" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNSModel.FK__ChiTietHo__MaHDN__2B3F6F97" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNSModel.FK__HoaDonBan__MaNV__1CF15040" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNSModel.FK__HoaDonNha__MaNCC__276EDEB3" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNSModel.FK__HoaDonNhap__MaNV__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNSModel.FK__Sach__MaNXB__173876EA" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNSModel.FK__Sach__TinhTrang__164452B1" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNSModel.FK__TacGiaVie__MaSac__1A14E395" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="QLNSModel.VW_ChiTietHDBan" Width="1.5" PointX="10.375" PointY="4.75" />
+        <EntityTypeShape EntityType="QLNSModel.VW_HoaDonBan" Width="1.5" PointX="10.375" PointY="7.75" />
+        <EntityTypeShape EntityType="QLNSModel.VW_ChiTietHDNhap" Width="1.5" PointX="10.375" PointY="10.75" />
+        <EntityTypeShape EntityType="QLNSModel.VW_HoaDonNhap" Width="1.5" PointX="7.375" PointY="11.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
